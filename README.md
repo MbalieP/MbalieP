@@ -5,7 +5,7 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +43,7 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=radical)
 
@@ -53,7 +53,7 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - 📧 Email: mbphulwjhb024@student.wethinkcode.co.za
 - 💼 LinkedIn: [Mbali Phulwane](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)
 - 💻 GitHub: [MbalieP](https://github.com/MbalieP)
