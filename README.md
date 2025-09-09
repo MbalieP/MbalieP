@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mbali Pretty Phulwane 👋
 
-<!--
-**MbalieP/MbalieP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Passionate about coding and building cool projects!
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Git & GitHu
+- Python
+- Web Development
+
+## 📫 How to reach me
+- Email: your.email@example.com
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
