@@ -62,9 +62,5 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Git techniques from Harvard CS50
-- Web development with Django
-- Data analysis with Python and Pandas
 
 *Always open to collaborating on interesting projects!*
