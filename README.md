@@ -1,16 +1,7 @@
-# Hi there, I'm Mbali Phulwane 👋
+# Hi there, I'm Mbali Pretty Phulwane 👋
 
-### 🚀  Aspiring Developer
+### 🚀 CS50 Student & Aspiring Developer
 Passionate about coding, problem-solving, and building cool projects! Currently expanding my skills through the Harvard CS50 course and WeThinkCode_.
-
----
-
-## 🏆 Achievements & Badges
-
-![CS50](https://img.shields.io/badge/CS50-Harvard_CS50-0072B1?style=for-the-badge&logo=harvard&logoColor=white)
-![WeThinkCode_](https://img.shields.io/badge/WeThinkCode_-Student-FF6B6B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -27,7 +18,7 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.iobadge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -54,47 +45,11 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=radical)
 
-![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=radical&hide_border=true&background=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MbalieP&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-## 🚀 Hackathons & Events
-
-### 🏅 2024 Participations
-
-| Hackathon | Project | Duration | Role | Technologies |
-|-----------|---------|----------|------|-------------|
-| **CS50 Hackathon** | [Project Name](https://github.com/MbalieP/project-link) | 48 hours | Full-Stack Developer | Python, Django, JavaScript |
-| **WeThinkCode_ Hackathon** | [Project Name](https://github.com/MbalieP/project-link) | 24 hours | Backend Developer | Java, MongoDB |
-| **Local Tech Hackathon** | [Project Name](https://github.com/MbalieP/project-link) | 36 hours | Data Analyst | Python, Pandas, Power BI |
-
-### 🎯 Upcoming Events
-- **Hacktoberfest 2024** - October 2024
-- **MLH Local Hack Day** - December 2024
-- **Google Solution Challenge** - 2025
-
----
-
-## 🌟 Featured Projects
-
-### 🏆 Hackathon Winners
-[![Project Name](https://img.shields.io/badge/🏆-Winning_Project-FFD700?style=for-the-badge)](https://github.com/MbalieP/project-link)
-*Won Best Data Analytics Solution at WeThinkCode_ Hackathon 2024*
-
-### 🔥 Recent Hackathon Projects
-- **[Project Alpha](https://github.com/MbalieP/project-alpha)** - A web app for real-time data visualization (Python, Django, JavaScript)
-- **[DataInsight](https://github.com/MbalieP/datainsight)** - Data analysis tool built in 24 hours (Python, Pandas, Power BI)
-- **[CodeCollab](https://github.com/MbalieP/codecollab)** - Collaborative coding platform (Java, MongoDB, Docker)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=radical)
 
 ---
 
@@ -102,8 +57,7 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 - 📧 Email: mbphulwjhb024@student.wethinkcode.co.za
 - 💼 LinkedIn: [Mbali Phulwane](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)
 - 💻 GitHub: [MbalieP](https://github.com/MbalieP)
-- 🏆 DevPost: [My Hackathon Profile](https://devpost.com/yourusername) *// Add your DevPost link if you have one*
 
 ---
 
-*⚡ Fun fact: I've participated in 3+ hackathons and built projects in under 48 hours! Always ready for the next coding challenge.*
+*⚡ Fun fact: I'm currently mastering Git through Harvard's CS50 course and expanding my skills across multiple technologies!*
