@@ -1,6 +1,6 @@
-# Hi there, I'm Mbali Pretty Phulwane 👋
+# Hi there, I'm Mbali Phulwane 
 
-### 🚀 CS50 Student & Aspiring Developer
+### Aspiring Developer
 Passionate about coding, problem-solving, and building cool projects! Currently expanding my skills through the Harvard CS50 course and WeThinkCode_.
 
 ---
@@ -60,4 +60,4 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-*⚡ Fun fact: I'm currently mastering Git through Harvard's CS50 course and expanding my skills across multiple technologies!*
+
