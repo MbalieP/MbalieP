@@ -43,7 +43,6 @@ Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -55,7 +54,6 @@ Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true)
 
 </div>
-
 ---
 
 
