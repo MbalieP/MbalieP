@@ -1,38 +1,41 @@
-# Hi there, I'm Mbali Phulwane 
+<h1 align="center">Hi there 👋, I'm <span style="color:#FF4D6D;">Mbali Phulwane</span></h1>
 
-### Aspiring Developer
-Passionate about coding, problem-solving, and building cool projects! Currently expanding my skills through the Harvard CS50 course and WeThinkCode_.
+<h3 align="center">🌱 Aspiring Developer</h3>
+<p align="center">
+Passionate about coding, problem-solving, and building cool projects!  
+Currently expanding my skills through the <b>Harvard CS50</b> course and <b>WeThinkCode_</b>.
+</p>
 
 ---
 
-##  Tech Stack
+## ⚡ Tech Stack
 
-### Programming Languages:
+### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Web Development:
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Databases:
+### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Analytics & BI:
+### 📊 Data Analytics & BI
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=sas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Development Tools:
+### 🔧 Development Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -42,11 +45,11 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=radical&hide_border=true)
+![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=radical&hide_border=true)
 
@@ -54,11 +57,11 @@ Passionate about coding, problem-solving, and building cool projects! Currently 
 
 ---
 
-##  How to Reach Me
--  **Email:** mbphulwjhb024@student.wethinkcode.co.za
--  **LinkedIn:** [Mbali Phulwane](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)
--  **GitHub:** [MbalieP](https://github.com/MbalieP)
+## 📬 How to Reach Me
+- ✉️ **Email:** mbphulwjhb024@student.wethinkcode.co.za  
+- 💼 **LinkedIn:** [Mbali Phulwane](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)  
+- 🖥️ **GitHub:** [MbalieP](https://github.com/MbalieP)  
 
 ---
 
-*Always open to collaborating on interesting projects!*
+<p align="center"><i>✨ Always open to collaborating on interesting projects! ✨</i></p>
