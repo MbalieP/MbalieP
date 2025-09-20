@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm <span style="color:#61DAFB;">Mbali Phulwane</span></h1>
+<h1 align="center"> ✨Hi, I'm <span style="color:#61DAFB;">Mbali Phulwane ✨</span></h1>
 
-<h3 align="center" style="color:white;">🌱 Aspiring Developer</h3>
+<h3 align="center" style="color:white;"> Aspiring Developer</h3>
 <p align="center" style="color:white;">
 Passionate about coding, problem-solving, and building cool projects!  
 Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b>.
