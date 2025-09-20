@@ -1,4 +1,4 @@
-<h1 align="center"> ✨Hi, I'm <span style="color:#61DAFB;">Mbali Phulwane ✨</span></h1>
+<h1 align="center"> ✨ Mbali Phulwane ✨</span></h1>
 
 <h3 align="center" style="color:white;"> Aspiring Developer</h3>
 <p align="center" style="color:white;">
