@@ -1,260 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mbali Phulwane - Aspiring Developer</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-            color: #f8f9fa;
-            line-height: 1.6;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.05);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 30px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        header {
-            text-align: center;
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, #ff6b6b, #ffa585);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-weight: 700;
-        }
-        
-        h2 {
-            font-size: 1.5rem;
-            margin: 25px 0 15px;
-            color: #64b5f6;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-        }
-        
-        h2::after {
-            content: "";
-            flex-grow: 1;
-            height: 1px;
-            background: rgba(255, 255, 255, 0.1);
-            margin-left: 15px;
-        }
-        
-        h3 {
-            font-size: 1.3rem;
-            margin-bottom: 15px;
-            color: #4db6ac;
-            font-weight: 500;
-        }
-        
-        p {
-            margin-bottom: 15px;
-            font-weight: 300;
-        }
-        
-        .badges-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-            gap: 12px;
-            margin-bottom: 20px;
-        }
-        
-        .badge {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 8px 12px;
-            border-radius: 8px;
-            background: rgba(255, 255, 255, 0.08);
-            transition: all 0.3s ease;
-            font-size: 0.85rem;
-            text-align: center;
-            min-height: 40px;
-        }
-        
-        .badge:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-            background: rgba(255, 255, 255, 0.12);
-        }
-        
-        .stats-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: center;
-            margin: 30px 0;
-        }
-        
-        .stats-container img {
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease;
-            max-width: 100%;
-        }
-        
-        .stats-container img:hover {
-            transform: scale(1.02);
-        }
-        
-        .contact-info {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 20px;
-            border-radius: 12px;
-            margin-top: 30px;
-        }
-        
-        .contact-info ul {
-            list-style: none;
-            padding-left: 20px;
-        }
-        
-        .contact-info li {
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-        }
-        
-        .contact-info li::before {
-            content: "•";
-            color: #64b5f6;
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
-        }
-        
-        .contact-info a {
-            color: #4db6ac;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-        
-        .contact-info a:hover {
-            color: #ff6b6b;
-            text-decoration: underline;
-        }
-        
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-            font-style: italic;
-            color: rgba(255, 255, 255, 0.7);
-        }
-        
-        @media (max-width: 768px) {
-            .badges-container {
-                grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-            }
-            
-            .stats-container {
-                flex-direction: column;
-            }
-            
-            h1 {
-                font-size: 2rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Hi there, I'm Mbali Phulwane</h1>
-            <h3>Aspiring Developer</h3>
-            <p>Passionate about coding, problem-solving, and building cool projects! Currently expanding my skills through the Harvard CS50 course and WeThinkCode_.</p>
-        </header>
+<h1 align="center">👋 Hi, I'm <span style="color:#61DAFB;">Mbali Phulwane</span></h1>
 
-        <h2>Tech Stack</h2>
-        
-        <h3>Programming Languages:</h3>
-        <div class="badges-container">
-            <div class="badge">Python</div>
-            <div class="badge">Java</div>
-            <div class="badge">C#</div>
-            <div class="badge">TypeScript</div>
-            <div class="badge">PHP</div>
-        </div>
+<h3 align="center" style="color:white;">🌱 Aspiring Developer</h3>
+<p align="center" style="color:white;">
+Passionate about coding, problem-solving, and building cool projects!  
+Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b>.
+</p>
 
-        <h3>Web Development:</h3>
-        <div class="badges-container">
-            <div class="badge">HTML5</div>
-            <div class="badge">CSS3</div>
-            <div class="badge">JavaScript</div>
-            <div class="badge">Django</div>
-            <div class="badge">React</div>
-        </div>
+---
 
-        <h3>Databases:</h3>
-        <div class="badges-container">
-            <div class="badge">SQLite</div>
-            <div class="badge">SQL</div>
-            <div class="badge">MongoDB</div>
-            <div class="badge">NoSQL</div>
-        </div>
+## ⚡ Tech Stack
 
-        <h3>Data Analytics & BI:</h3>
-        <div class="badges-container">
-            <div class="badge">Excel</div>
-            <div class="badge">SAS</div>
-            <div class="badge">Power BI</div>
-        </div>
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 
-        <h3>Development Tools:</h3>
-        <div class="badges-container">
-            <div class="badge">Docker</div>
-            <div class="badge">Git</div>
-            <div class="badge">GitHub</div>
-            <div class="badge">GitLab</div>
-            <div class="badge">Trello</div>
-            <div class="badge">Jupyter</div>
-        </div>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=0C4B33)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-        <h2>GitHub Stats</h2>
-        <div class="stats-container">
-            <img src="https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=radical&hide_border=true" alt="GitHub Streak">
-        </div>
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-        <div class="contact-info">
-            <h2>How to Reach Me</h2>
-            <ul>
-                <li><strong>Email:</strong> mbphulwjhb024@student.wethinkcode.co.za</li>
-                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mbali-phulwane-0971071b8/">Mbali Phulwane</a></li>
-                <li><strong>GitHub:</strong> <a href="https://github.com/MbalieP">MbalieP</a></li>
-            </ul>
-        </div>
+### 📊 Data Analytics & BI
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![SAS](https://img.shields.io/badge/SAS-000000?style=for-the-badge&logo=sas&logoColor=0072C6)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
-        <div class="footer">
-            <p>Always open to collaborating on interesting projects!</p>
-        </div>
-    </div>
-</body>
-</html>
+### 🔧 Development Tools
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=dark&hide_border=true&count_private=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📬 How to Reach Me
+- ✉️ **Email:** mbphulwjhb024@student.wethinkcode.co.za  
+- 💼 **LinkedIn:** [Mbali Phulwane](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)  
+- 🖥️ **GitHub:** [MbalieP](https://github.com/MbalieP)  
+
+---
+
+<p align="center"><i style="color:gray;">✨ Always open to collaborating on interesting projects! ✨</i></p>
