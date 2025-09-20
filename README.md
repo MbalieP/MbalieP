@@ -50,11 +50,14 @@ Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b
 
 ![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=dark&hide_border=true&count_private=true)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=dark&hide=C%2B%2B)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true)
 
 </div>
 
 ---
+
 
 ## 📬 How to Reach Me
 - ✉️ **Email:** mbphulwjhb024@student.wethinkcode.co.za  
