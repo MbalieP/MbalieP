@@ -64,13 +64,14 @@
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
-![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E0249&icon_color=2E0249&count_private=true&include_all_commits=true)  
+![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E0249&langs_count=8&hide=C%2B%2B)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=C%2B%2B&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true&background=0D1117&fire=2E0249&ring=2E0249&currStreakLabel=2E0249)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true&background=0D1117&fire=2E0249)
 
 </div>
 
