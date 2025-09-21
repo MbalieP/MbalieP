@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/MbalieP">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" altGitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -64,14 +64,13 @@
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
 
-![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)  
+![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=vision-friendly-dark&hide_border=false&border_color=2E0249&bg_color=0d1117&text_color=ffffff&title_color=2E0249&count_private=true&include_all_commits=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=C%2B%2B&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=vision-friendly-dark&hide_border=false&border_color=2E0249&bg_color=0d1117&text_color=ffffff&title_color=2E0249&hide=C%2B%2B&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=dark&hide_border=true&background=0D1117&fire=2E0249)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MbalieP&theme=vision-friendly-dark&hide_border=false&border_color=2E0249&background=0d1117&fire=2E0249&ring=2E0249&currStreakLabel=2E0249)
 
 </div>
 
