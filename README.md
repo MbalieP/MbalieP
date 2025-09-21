@@ -74,17 +74,6 @@
 
 </div>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mbphulwjhb024@student.wethinkcode.co.za-2E0249?style=flat-square&logo=gmail)](mailto:mbphulwjhb024@student.wethinkcode.co.za)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mbali_Phulwane-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mbali-phulwane-0971071b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-MbalieP-181717?style=flat-square&logo=github)](https://github.com/MbalieP)
-
-</div>
 
 ---
 
