@@ -1,10 +1,8 @@
-<h1 align="center"> ✨ Mbali Phulwane ✨</span></h1>
-
-<h3 align="center" style="color:white;"> Aspiring Developer</h3>
-<p align="center" style="color:white;">
-Passionate about coding, problem-solving, and building cool projects!  
-Currently expanding my skills through <b>Harvard CS50</b> and <b>WeThinkCode_</b>.
+<!-- Neon Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data.">
 </p>
+
 
 ---
 
