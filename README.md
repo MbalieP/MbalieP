@@ -1,17 +1,7 @@
-<!-- 🌌 Neon Intro Banner -->
-<div align="center">
-
-  <!-- Typing Animation -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;✨+Engineering+tomorrow+with+today's+data.✨" 
-    alt="Typing SVG Intro"
-  />
-
-  <!-- Subtle Glow Divider -->
-  <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #00F0FF, transparent); margin: 20px 0;" />
-
-</div>
-
+<!-- Neon Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data.">
+</p>
 
 ---
 
