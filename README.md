@@ -1,6 +1,6 @@
 <!-- Neon Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data.">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=...................;Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data.">
 </p>
 
 ---
