@@ -1,8 +1,7 @@
 <!-- Neon Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2B7CD3&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data." alt="Typing Text">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;Junior+Data+Engineer;Engineering+tomorrow+with+today's+data." alt="Typing Text">
 </p>
-
 ## 🚀 Tech Stack
 
 ### 🖥️ Programming Languages
