@@ -1,6 +1,5 @@
-<!-- Neon Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E0249&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;A+Junior+Data+Engineer;Focused+on+scalable+and+efficient+systems;Engineering+tomorrow+with+today's+data." alt="Typing Text">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;A+Junior+Data+Engineer;Focused+on+scalable+and+efficient+systems;Engineering+tomorrow+with+today's+data." alt="Typing Text">
 </p>
 
 <p align="center">
