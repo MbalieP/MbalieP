@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;A+Junior+Data+Engineer;Focused+on+scalable+and+efficient+systems;Engineering+tomorrow+with+today's+data." alt="Typing Text">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E0249&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;A+Junior+Data+Engineer;Focused+on+scalable+and+efficient+systems;Engineering+tomorrow+with+today's+data." alt="Typing Text" media="(prefers-color-scheme: light)">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mbali;A+Junior+Data+Engineer;Focused+on+scalable+and+efficient+systems;Engineering+tomorrow+with+today's+data." alt="Typing Text" media="(prefers-color-scheme: dark)">
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mbali-phulwane-0971071b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
