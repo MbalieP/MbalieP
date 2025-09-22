@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <i>✨ Always open to collaborating on interesting data engineering projects! ✨</i>
+  <i>✨ Always open to collaborating on interesting data engineering projects ✨</i>
 </p>
 
 <div align="center">
