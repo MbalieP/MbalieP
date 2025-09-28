@@ -19,7 +19,7 @@
 ## About Me
 
 <p align="center">
-  Passionate Junior Data Engineer with passion in building scalable data systems and transforming raw data into actionable insights. Currently expanding my skills in cloud technologies and 
+  Passionate Junior Data Engineer with passion in building scalable data systems and transforming raw data into actionable insights. Currently expanding my skills in cloud 
 </p>
 
 ---
