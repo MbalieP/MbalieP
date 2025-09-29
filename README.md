@@ -64,7 +64,6 @@
 ## GitHub Analytics
 
 <div align="center">
-
 ![Mbali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MbalieP&show_icons=true&theme=vision-friendly-dark&hide_border=false&border_color=2E0249&bg_color=0d1117&text_color=ffffff&title_color=2E0249&count_private=true&include_all_commits=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbalieP&layout=compact&theme=vision-friendly-dark&hide_border=false&border_color=2E0249&bg_color=0d1117&text_color=ffffff&title_color=2E0249&hide=C%2B%2B&langs_count=8)
