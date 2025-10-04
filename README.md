@@ -59,6 +59,14 @@
 
 
 ---
+## 📜 Certifications  
+
+[![R Certificate](https://img.shields.io/badge/CS50-R_Programming-red?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+[![SQL Certificate](https://img.shields.io/badge/CS50-SQL_Databases-blue?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+[![Web Dev Certificate](https://img.shields.io/badge/CS50-Web_Development-green?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+
+
+----
 
 ## GitHub Analytics
 
