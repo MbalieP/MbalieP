@@ -61,9 +61,14 @@
 ---
 ## 📜 Certifications  
 
-[![R Certificate](https://img.shields.io/badge/CS50-R_Programming-red?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
-[![SQL Certificate](https://img.shields.io/badge/CS50-SQL_Databases-blue?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
-[![Web Dev Certificate](https://img.shields.io/badge/CS50-Web_Development-green?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+## 📜 Certifications  
+
+[![CS50 R](https://img.shields.io/badge/CS50-R_Programming-2E0249?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+[![CS50 SQL](https://img.shields.io/badge/CS50-SQL_Databases-2E0249?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+[![CS50 Web](https://img.shields.io/badge/CS50-Web_Development-2E0249?style=for-the-badge&logo=harvard&logoColor=white)](your-certificate-link)  
+[![Oracle Gen AI](https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](your-certificate-link)  
+[![Oracle Data](https://img.shields.io/badge/Oracle-Data_Platform_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](your-certificate-link)  
+[![SAS Programming](https://img.shields.io/badge/SAS-Programming_Certificate-0072C6?style=for-the-badge&logo=sas&logoColor=white)](your-certificate-link)  
 
 
 ----
